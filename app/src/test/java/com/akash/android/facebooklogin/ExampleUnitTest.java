@@ -1,4 +1,4 @@
-package com.iot.hmb.facebooklogin;
+package com.akash.android.facebooklogin;
 
 import org.junit.Test;
 

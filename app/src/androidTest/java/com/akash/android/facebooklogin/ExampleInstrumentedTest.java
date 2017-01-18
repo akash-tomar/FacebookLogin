@@ -1,4 +1,4 @@
-package com.iot.hmb.facebooklogin;
+package com.akash.android.facebooklogin;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
